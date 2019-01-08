@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Conway&apos;s Life</name>
+	<name>Conway-s-Game-of-Life</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.python.pydev.pythonNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src</name>
+			<type>2</type>
+			<location>C:/Users/Ian/Documents/GitHub/Conway-s-Game-of-Life/src</location>
+		</link>
+	</linkedResources>
 </projectDescription>
